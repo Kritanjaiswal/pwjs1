@@ -13,3 +13,10 @@ let email='kritanjaiswal9998@gmail.com';
 console.log(email);
 console.log(email.replace('kritan','rohit'));
 console.log(email.toUpperCase());
+
+
+const num=5.238765;
+console.log(num.toFixed(2));
+
+const subscribers=100000;
+console.log(subscribers.toLocaleString());
