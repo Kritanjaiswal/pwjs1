@@ -1,4 +1,4 @@
-let starFromUser="2";
+let starFromUser="9";
 let getInInt=parseInt(starFromUser);
 switch(getInInt){
     case 1:
