@@ -63,3 +63,11 @@ if(googleInToken || githubInToken){
 }else {
     console.log("Please login Firstly");
 }
+
+
+
+// Ternary Operator
+let age=17;
+let willYouGetLicense=true;
+age>=18? willYouGetLicense=true : willYouGetLicense=false;
+console.log(willYouGetLicense);
